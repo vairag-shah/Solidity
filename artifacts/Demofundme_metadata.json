@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "fund",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Demofundme.sol": "Demofundme"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Demofundme.sol": {
+			"keccak256": "0xe621baa281a04d1b32b9fff23e69ae93ab028a6be7ab0b24e904e31130a04186",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://38c483b35b7e27c11513945e1f5ae6dafbc1ce4adbe68e73362ba9a4ced096e4",
+				"dweb:/ipfs/QmW7g4MLdsX3EniiCUpsi9R8ZGULKPTJjH7BtaQLd2nLQp"
+			]
+		}
+	},
+	"version": 1
+}
