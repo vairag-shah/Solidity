@@ -1,4 +1,4 @@
-My Solidity Learning Journey 
+My Solidity Learning Journey !
 📖 About This Repository
 This repository contains a collection of smart contracts I have written as part of my journey to learn the Solidity programming language and the fundamentals of Ethereum development. Each contract is a standalone exercise designed to practice and demonstrate a specific, core concept.
 
